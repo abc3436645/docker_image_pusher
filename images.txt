@@ -1,4 +1,4 @@
-nginx
+#nginx
 #faucet/python3:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -31,3 +31,4 @@ nginx
 n8nio/n8n:nightly
 postgres:16
 redis:6-alpine
+flowiseai/flowise:3.0.0
