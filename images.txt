@@ -32,4 +32,5 @@
 #postgres:16
 #redis:6-alpine
 #flowiseai/flowise:3.0.0
-vllm/vllm-openai:v0.8.5.post1
+#vllm/vllm-openai:v0.8.5.post1
+ramsrib/pgvector:16
