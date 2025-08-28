@@ -33,4 +33,5 @@
 #redis:6-alpine
 #flowiseai/flowise:3.0.0
 #vllm/vllm-openai:v0.8.5.post1
-ramsrib/pgvector:16
+#ramsrib/pgvector:16
+litellm/litellm:1.76.0.dev1
