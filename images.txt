@@ -35,5 +35,4 @@
 #vllm/vllm-openai:v0.8.5.post1
 #ramsrib/pgvector:16
 #litellm/litellm:v1.80.0.rc.1
-litellm:v1.79.3-stable
 redis:latest
