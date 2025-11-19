@@ -29,10 +29,10 @@
 #snykgoof/nodejs18:latest
 #primeintellect/vllm-cuda12-1:v0.6.4.post1
 #n8nio/n8n:nightly
-#postgres:16
+postgres:latest
 #redis:6-alpine
 #flowiseai/flowise:3.0.0
 #vllm/vllm-openai:v0.8.5.post1
 #ramsrib/pgvector:16
-#litellm/litellm:v1.80.0.rc.1
+litellm/litellm-database:v1.80.0.dev2
 redis:latest
