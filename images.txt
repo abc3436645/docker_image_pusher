@@ -36,3 +36,4 @@ postgres:latest
 #ramsrib/pgvector:16
 litellm/litellm:v1.80.0-stable
 #redis:latest
+maximhq/bifrost:v1.3.53-arm64
