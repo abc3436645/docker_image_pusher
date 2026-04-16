@@ -38,3 +38,4 @@
 #redis:latest
 #maximhq/bifrost:v1.3.53-arm64
 postgres:14
+postgres:alpine
