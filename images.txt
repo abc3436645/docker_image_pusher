@@ -37,5 +37,6 @@
 #litellm/litellm:v1.80.0-stable
 #redis:latest
 #maximhq/bifrost:v1.3.53-arm64
-postgres:14
-postgres:alpine
+#postgres:14
+#postgres:alpine
+stirlingtools/stirling-pdf:2.12.0
