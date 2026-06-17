@@ -39,4 +39,7 @@
 #maximhq/bifrost:v1.3.53-arm64
 #postgres:14
 #postgres:alpine
-stirlingtools/stirling-pdf:2.12.0
+#stirlingtools/stirling-pdf:2.12.0
+weishaw/sub2api:latest
+postgres:18-alpine
+redis:8-alpine
