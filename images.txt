@@ -40,9 +40,10 @@
 #postgres:14
 #postgres:alpine
 #stirlingtools/stirling-pdf:2.12.0
-weishaw/sub2api:latest
-postgres:18-alpine
-redis:8-alpine
-node:24-alpine
-golang:1.25.5-alpine
-alpine:3.20 
+#weishaw/sub2api:latest
+#postgres:18-alpine
+#redis:8-alpine
+#node:24-alpine
+#golang:1.25.5-alpine
+#alpine:3.20
+dhi.io/mongodb:8
