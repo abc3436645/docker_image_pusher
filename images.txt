@@ -46,4 +46,4 @@
 #node:24-alpine
 #golang:1.25.5-alpine
 #alpine:3.20
-dhi.io/mongodb:8
+mcp/mongodb:latest
